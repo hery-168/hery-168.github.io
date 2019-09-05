@@ -7,9 +7,7 @@ author:     hery
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-    - flink
-    - slot
-    - parallelism
+    - flink核心概念
 ---
 
 #  Flink架构
