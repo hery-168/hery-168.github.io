@@ -4,7 +4,7 @@ title:      flink parallelism slot介绍
 subtitle:   flink  parallelism slot
 date:       2019-09-05
 author:     hery
-header-img: img/post-bg-debug.png
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - flink核心概念
